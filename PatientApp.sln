@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEmitter", "CodeEmitter\CodeEmitter.csproj", "{AF803229-8FCE-4E1D-B544-C441A6457834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientApp", "PatientApp\PatientApp.csproj", "{92CBE6AE-A43E-470C-8F56-2FA1F1256239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF803229-8FCE-4E1D-B544-C441A6457834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF803229-8FCE-4E1D-B544-C441A6457834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF803229-8FCE-4E1D-B544-C441A6457834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF803229-8FCE-4E1D-B544-C441A6457834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CBE6AE-A43E-470C-8F56-2FA1F1256239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CBE6AE-A43E-470C-8F56-2FA1F1256239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CBE6AE-A43E-470C-8F56-2FA1F1256239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CBE6AE-A43E-470C-8F56-2FA1F1256239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
