@@ -18,6 +18,7 @@ In simpler terms, as a developer, you gain access to the *Compilation* object, g
 Source Generators were introduced by Microsoft in .NET 5.0, initially called Source Generators and later enhanced and rebranded as Incremental Source Generators in .NET 6. These generators operate during the compilation phase, as depicted below:
 
 ![SourceCodeGeneratorFlow.png](./assets/dotnet_compilation.png)
+Image src: https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/
 
 **Key Points to Note**:
 
